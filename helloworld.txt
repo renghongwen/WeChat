@@ -1,4 +1,4 @@
-public void main(){
+ipublic void main(){
 	System.out.println("Hello World ,I am rhw");
-	System.out.println("hot-fix add");
+	System.out.println("hot-fix add  master update ");
 }
